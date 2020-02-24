@@ -1,0 +1,36 @@
+body{
+    background: lightsalmon;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.shuffle {
+    margin: 2rem;
+    padding: 2rem;
+    margin: 0 2rem;
+    border: 10px solid white;
+    font-size: 2rem;
+
+    text-align: center;
+    margin-top: 5%;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    color: white;
+    font-size: 5rem;
+}
+
+#Numbers{
+    font-size: 2rem;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 5rem;
+}
